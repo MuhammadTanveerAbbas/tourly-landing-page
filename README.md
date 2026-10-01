@@ -66,7 +66,7 @@ A polished, responsive travel website that:
 
 ### 🛠️ Technology Used
 
-HTML5 • CSS3 • JavaScript • Ionicons
+HTML5 • CSS3 • JavaScript
 
 ---
 
