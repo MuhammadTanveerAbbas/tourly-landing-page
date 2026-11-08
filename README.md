@@ -19,7 +19,7 @@
 
 ### 🧠 What is it
 
-**Tourly** is a fully responsive travel agency website template built with **HTML5, CSS3, and JavaScript (optional)**.  
+**Tourly** is a fully responsive travel agency website template built with **HTML5, CSS3, and JavaScript**.  
 It showcases popular destinations, curated travel packages, engaging traveler galleries, and newsletter subscription forms while delivering a seamless user experience.
 
 ---
